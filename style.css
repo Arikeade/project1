@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface');
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Martel';
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.nav-title {
+    font-family: 'Abril Fatface';
+    font-size: 20px;
+    color: #000;
+    text-decoration: none;
+}
+#nav-bar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+}
+.fonter {
+    font-size: 5px;
+}
+
+nav a:link, nav a :visited {
+    font-size: 12px;
+    text-decoration: none;
+
+}
+nav a:hover {
+   text-decoration: 
+}
+nav a:active{
+    color: purple;
+
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Abril Fatface';
+}
+nav {
+    font-size: 10px;
+}
+.naver {
+    padding: 10px;
+    color: #000;
+    font-size: 10px;
+}
+
+#first-paragraph {
+    background-image: url('./cafe.JPG');
+    background-position: center;
+    background-size: cover;
+    color: #000;
+    text-align: left;
+}
+.ist-para {
+    padding: 70px 25px 50px 25px;
+}
+.index {
+    position: relative;
+    font-size: 120px;
+    padding-top: 50px;
+    
+}
+.font {
+    font-size: 17px;
+}
+.decor {
+      text-decoration: none;
+      color: #fff;
+}
+#button1 {
+    background-color: mediumseagreen;
+    padding: 5px 10px;
+    font-family: 'Abril Fatface';
+    border: none;
+
+}
+#space {
+    position: relative; 
+    margin-bottom: 30rem;
+    
+    
+}
+.fade {
+    text-align: center;
+}
+.coffeebags {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    top: 0; 
+
+}
+h4{
+    font-family: 'Abril Fatface';
+    text-align: center;
+}
+.coffeebags div {
+    text-align: center;
+    padding: 130px 40px;
+    height: 60%;
+}
+.font2 {
+    font-size: 18px;
+}
+#paragraph-3 {
+    background-color: #091016;
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+    color: #fff;
+    margin-top: -5rem;
+}
+.font1 {
+    font-size: 30px ;
+}
+
+.third-content {
+    width: 80%;
+    margin: auto;
+    font-size: 19px;
+    padding-bottom: 40px;
+}
+.space {
+    width: 50%;
+    margin: auto;
+}
+#icon {
+    margin-top: -9rem;
+}
+.icon div {
+     width: 100%;
+     padding: 40px;
+}
+.icon2 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.font3 {
+    font-size: 16px;
+}
+.col-4 {
+    
+    margin: 30px;
+    background-color: mediumseagreen;
+    padding: 20px 10px;
+}
+.paragraph-4 {
+    padding-top: 6rem;
+    width: 75%;
+    margin: auto;
+    text-align: left;
+    font-size: 18px;
+
+}
+#numbers {
+   margin-top: 4rem;
+   text-align: left;
+} 
+.icon3 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.icon3 div {
+   margin: 20px;
+}
+h2 {
+    font-size: 60px;
+    font-family: 'Abril Fatface';
+    color: #efb4a3;
+}
+.text {
+    font-family: 'Abril Fatface';
+    text-align: left;
+    font-size: 20px;
+}
+.text1 {
+    font-size: 18px;
+}
+.button3 {
+     text-align: left;
+     width: 80%;
+     margin: auto;
+}
+.button2 {
+    background-color: mediumseagreen;
+    padding: 5px 10px;
+    font-family: 'Abril Fatface';
+    border: none;
+}
+#button4{
+    margin-bottom: 6rem;
+}
+#footer {
+    width: 100%;
+    margin: auto;
+    background-color: #000;
+    padding: 10px 25px;
+}
+.naver2 {
+    padding: 10px;
+    color: #fff;
+}
+.padd {
+    color: #fff;
+    align-items: center;
+}
+.mb-3 {
+    margin-bottom: 3rem;
+}
+.nav-title2 {
+    font-family: 'Abril Fatface';
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+.d-flex {
+    display: flex;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+
+}
+ul {
+    display: flex;
+    margin-right: 44rem;
+    
+}
+
+   .col-1 { width: 83.3% }
+   .col-2 { width: 16.67% }
+   .col-3 { width: 25% }
+   .col-4 { width: 33.33% }
+   .col-5 { width: 41.67% }
+   .col-6 { width: 50% }
+   .col-7 { width: 58.33% }
+   .col-8 { width: 66.67% }
+   .col-9 { width: 75% }
+   .col-10 { width: 83.33% }
+   .col-11 { width: 91.67 %}
+   .col-12 { width: 100%; }
